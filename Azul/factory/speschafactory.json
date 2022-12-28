@@ -1,0 +1,9 @@
+{
+	"name": "speschafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a4db3f32-44a2-4cb8-9e3b-d373d4147c88",
+		"tenantId": "5acf5233-9256-41b9-9b94-c5d70ee6899c"
+	}
+}
