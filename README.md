@@ -26,5 +26,6 @@ Create an Azure Databricks workspace and configure it to use the same storage ac
 Create an Azure Blob Storage account for storing data.
 Update the configuration files in the repository with your own credentials and connection strings.
 Publish the pipeline and trigger it to start processing data.
-Contributions
-Contributions to this repository are welcome. If you would like to make changes to the pipeline or add new functionality, please create a pull request with your proposed changes.
+
+
+An integrated data analytics environment makes it easier to create and automate data pipelines and workflows to deliver information to business users. It reduces data silos, enhances security and governance, and eliminates system redundancies
